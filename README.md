@@ -17,4 +17,4 @@
 # 2019
 19.10.21 L.POINT Big Data Competition
 
-(LOTTEMEMBERS)
+(LOTTE MEMBERS)
